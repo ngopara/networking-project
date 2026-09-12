@@ -107,6 +107,8 @@ The completed network successfully demonstrated **departmental connectivity and 
 * The **Sales department retained access to the server's HTTP service**, demonstrating that the ACL could restrict specific traffic without preventing all access to the server. 
 * Overall, the project demonstrated practical application of **IP addressing, routing, connectivity testing, ACL configuration, and network access control** in Cisco Packet Tracer.
 
+![Network Topology](Steep 4.png)
+
 ## Author
 
 **Ngozi Opara**
@@ -114,4 +116,3 @@ The completed network successfully demonstrated **departmental connectivity and 
 * **Student ID:** `GRC-C26-08-EU-004`
 * **Date:** 11 September 2026
 * **GitHub:** `linkedin.com/in/rosemaryopara`
-* ![Network Topology](Steep 4.png)
