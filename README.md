@@ -114,3 +114,4 @@ The completed network successfully demonstrated **departmental connectivity and 
 * **Student ID:** `GRC-C26-08-EU-004`
 * **Date:** 11 September 2026
 * **GitHub:** `linkedin.com/in/rosemaryopara`
+* ![Network Topology](Steep 4)
